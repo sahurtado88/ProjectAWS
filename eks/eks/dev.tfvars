@@ -50,3 +50,6 @@ addons = [
   }
   
 ]
+
+# grafana
+grafana_admin_password="kjhidhiuerhovnerkj"
